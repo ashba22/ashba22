@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ashba22
-- 👀 I’m interested in PHP, Python & Crypto
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on *
-- 📫 How to reach me HERE :D
+👋 Hello, I'm @ashba22!
 
-<!---
-ashba22/ashba22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 About Me:
+
+A versatile developer with proficiency in Python, PHP, JavaScript, and C++. My passion extends to the dynamic realms of cryptocurrencies and blockchain technology.
+Currently broadening my horizons by learning Go, Rust, and OpenGL, which complements my interest in both system-level and graphics programming.
+🌱 What I'm Learning:
+
+Deepening my expertise in Python for more sophisticated applications, while exploring the robustness of Go and Rust for high-performance and secure system programming.
+Venturing into the world of OpenGL to gain a deeper understanding of computer graphics, complementing my skills in C++.
